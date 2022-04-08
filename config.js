@@ -3,16 +3,19 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['919971107409', 'Valor_Bot', true]
+  ['919107910799', 'Dinesh_Valor🇮🇳', true],
+  ['918285555836', 'Aks😊', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['919971107409'] // Want some help?
-global.prems = ['919971107409'] // Premium user has unlimited limit
+global.mods = ['919107910799'] // Want some help?
+global.prems = ['919107910799'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
   bg: 'http://bochil.ddns.net',
   xteam: 'https://api.xteam.xyz',
+  lolhuman: 'https://api.lolhuman.xyz',
+  amel: 'https://melcanz.com',
   zahir: 'https://zahirr-web.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
   pencarikode: 'https://pencarikode.xyz',
@@ -20,7 +23,9 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': '493053acc612476f',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
+  'https://api.lolhuman.xyz': 'rey2k22',
+  'https://melcanz.com': '2xfP4VCE',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
